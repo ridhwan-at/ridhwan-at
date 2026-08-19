@@ -29,7 +29,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Pursuing an **MSc in Computer Science** at Saarland University (Interactive Systems, Machine Learning).
+- 🎓 Pursuing an **MSc in Computer Science** at Saarland University (HCI, Interactive Systems, Machine Learning, Cyber Physical System - Embedded Systems).
 - 🔬 Former **Research Assistant (AI & Data Analysis)** — built classification models on environmental sensor data.
 - 💼 **Software Engineer Intern @ Naseh**, Qatar's first legal-tech startup (React Native / TypeScript frontend).
 - 🌱 Currently going deeper on **applied ML, motion recognition, and production-grade full-stack development**.
@@ -94,6 +94,6 @@ AI-powered web app for automated expense categorization and statistical insights
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhwan-at&show_icons=true&locale=en&theme=default" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhwan-at&show_icons=true&locale=en&layout=compact&theme=default" alt="top languages" />
+  <img height="165" src="https://github-stats-extended-frontend-pi-dusky.vercel.app/api?username=ridhwan-at&show_icons=true&locale=en&theme=default" alt="stats" />
+  <img height="165" src="https://github-stats-extended-frontend-pi-dusky.vercel.app/api/top-langs?username=ridhwan-at&show_icons=true&locale=en&layout=compact&theme=default" alt="top languages" />
 </p>

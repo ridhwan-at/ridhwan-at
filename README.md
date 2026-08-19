@@ -42,12 +42,12 @@
 **🛞 TireWise — AI Tire-Condition Analysis** · `Kotlin` · `ML`
 Mobile app that classifies tire tread / physical condition from image and sensor input. Built end-to-end under a SCRUM workflow.
 <!-- 🔗 Replace with the real repo link -->
-🔗 `github.com/ridhwan-ra2005171/tirewise`
+🔗 `github.com/ridhwan-at/tirewise`
 
 **🧾 Pocket Pilot AI — Expense & Data Insights** · `Next.js` · `AI`
 AI-powered web app for automated expense categorization and statistical insights, with a focus on secure data handling and clean, user-centric dashboards.
 <!-- 🔗 Replace with the real repo link -->
-🔗 `github.com/ridhwan-ra2005171/pocket-pilot-ai`
+🔗 `github.com/ridhwan-at/pocket-pilot-ai`
 
 ---
 
@@ -94,6 +94,6 @@ AI-powered web app for automated expense categorization and statistical insights
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhwan-ra2005171&show_icons=true&locale=en&theme=default" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhwan-ra2005171&show_icons=true&locale=en&layout=compact&theme=default" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhwan-at&show_icons=true&locale=en&theme=default" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhwan-at&show_icons=true&locale=en&layout=compact&theme=default" alt="top languages" />
 </p>
